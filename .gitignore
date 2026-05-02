@@ -351,3 +351,7 @@ MigrationBackup/
 
 # appsettings
 /**/appsettings.Local.json
+mongodb-atlas-credentials.txt
+# AWS - NE JAMAIS COMMITER
+aws-credentials.txt
+*.pem
